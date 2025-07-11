@@ -1,0 +1,13 @@
+.idea/
+.vscode/
+
+.pyc
+.env
+.DS_Store
+
+__pycache__/
+venv/
+data/
+
+djangotutorial/static/*
+!djangotutorial/static/.gitkeep
